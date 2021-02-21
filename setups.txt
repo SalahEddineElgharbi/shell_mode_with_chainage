@@ -1,0 +1,77 @@
+
+venvSysexpr (((( utilse pour envment de ressource de mni projet )))
+
+
+created virtual environment CPython3.8.5.final.0-32 in 719ms
+  creator CPython3Windows(dest=C:\Users\pc\enAtt\web\mn_pj______ici\venvSysexpr, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=C:\Users\pc\AppData\Local\pypa\virtualenv)
+    added seed packages: pip==21.0.1, setuptools==52.0.0, wheel==0.36.2
+  activators BashActivator,BatchActivator,FishActivator,PowerShellActivator,PythonActivator,XonshActivator
+
+=================
+C:\Users\pc\Desktop\annexe ESI SBA\2CS\S1\Ingénierie des connaissances\Mini_PJ\mn_pj______ici\venvSysexpr\Scripts
+====================
+
+
+activate
+
+
+
+
+C:\Users\pc\enAtt\web\mn_pj______ici\42-expert-system-master>cd  C:\Users\pc\Desktop\annexe ESI SBA\2CS\S1\Ingénierie des connaissances\Mini_PJ\mn_pj______ici\42-expert-sy
+
+
+
+py main.py -m interactive test
+
+
+2///
+
+
+
+(venvSysexpr) C:\Users\pc\enAtt\web\mn_pj______ici\42-expert-system-master>pY -m pip install -r requirements.txt
+Collecting anytree
+  Using cached anytree-2.8.0-py2.py3-none-any.whl (41 kB)
+Collecting pytest
+  Using cached pytest-6.2.2-py3-none-any.whl (280 kB)
+Collecting six>=1.9.0
+  Using cached six-1.15.0-py2.py3-none-any.whl (10 kB)
+Collecting packaging
+  Using cached packaging-20.9-py2.py3-none-any.whl (40 kB)
+Collecting colorama
+  Using cached colorama-0.4.4-py2.py3-none-any.whl (16 kB)
+Collecting py>=1.8.2
+  Using cached py-1.10.0-py2.py3-none-any.whl (97 kB)
+Collecting iniconfig
+  Using cached iniconfig-1.1.1-py2.py3-none-any.whl (5.0 kB)
+Collecting attrs>=19.2.0
+  Using cached attrs-20.3.0-py2.py3-none-any.whl (49 kB)
+Collecting atomicwrites>=1.0
+  Using cached atomicwrites-1.4.0-py2.py3-none-any.whl (6.8 kB)
+Collecting toml
+  Using cached toml-0.10.2-py2.py3-none-any.whl (16 kB)
+Collecting pluggy<1.0.0a1,>=0.12
+  Using cached pluggy-0.13.1-py2.py3-none-any.whl (18 kB)
+Collecting pyparsing>=2.0.2
+  Using cached pyparsing-2.4.7-py2.py3-none-any.whl (67 kB)
+Installing collected packages: pyparsing, toml, six, py, pluggy, packaging, iniconfig, colorama, attrs, atomicwrites, pytest, anytree
+Successfully installed anytree-2.8.0 atomicwrites-1.4.0 attrs-20.3.0 colorama-0.4.4 iniconfig-1.1.1 packaging-20.9 pluggy-0.13.1 py-1.10.0 pyparsing-2.4.7 pytest-6.2.2 six-1.15.0 toml-0.10.2
+
+(venvSysexpr) C:\Users\pc\enAtt\web\mn_pj______ici\42-expert-system-master>
+
+
+
+
+
+
+
+3///  use libire : anytree   +  pytest 
+
+
+use anytree to graphe :
+
+line : https://anytree.readthedocs.io/en/latest/
+
+
+Due to pytest’s detailed assertion introspection, only plain assert statements are used. See Getting Started for more examples.
+
